@@ -1,0 +1,10 @@
+pertemuan.pkg2.Truk
+pertemuan.pkg2.Laptop
+pertemuan.pkg2.MMORPG
+pertemuan.pkg2.PabrikMobil
+pertemuan.pkg2.main
+pkg2021classobjek.objekMobil
+pertemuan.pkg2.T
+pertemuan.pkg2.objekMobil
+pertemuan.pkg2.Mobil
+pkg2021classobjek.Mobil
